@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexssandro23
-- 👀 I’m interested in developer python
+- 👀 I’m interested in development python
 - 🌱 I’m currently learning python and C
 - 📫 How to reach me allexbottelho2003@gmail.com 
 
