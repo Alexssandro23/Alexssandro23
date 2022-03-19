@@ -1,3 +1,5 @@
+​[![​Top Langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssandro23&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @Alexssandro23
 - 👀 I’m interested in development python
 - 🌱 I’m currently learning python and C
